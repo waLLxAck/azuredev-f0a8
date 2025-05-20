@@ -7,6 +7,8 @@ This project demonstrates how to use the Azure OpenAI API with Python to interac
 *   Python (3.7+ recommended)
 *   pip (Python package installer)
 *   Git (for cloning the repository)
+*   Azure OpenAI subscription key (required for authentication)
+
 
 ## Getting Started
 
